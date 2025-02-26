@@ -4,11 +4,11 @@
 
 <h2>Meu nome é Leonardo Wahhab</h2>
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,javascript,html,css,git,github">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css">
 
-- 👨‍💻 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas @[Fatec](https://www.fateccarapicuiba.edu.br/)
+- 👨‍💻 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas @[Fatec](https://www.fateccarapicuiba.edu.br/)
+- 💼 Estagiário em Desevolvimento de Sistemas @[Revizia](https://revizia.com.br/)
 - 📚 Sempre indo atrás de aprender algo novo
-- 💼 Estagiário em Arquitetura de Software @[Revizia](https://revizia.com.br/)
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=leodwahhab&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt=""> 
