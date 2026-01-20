@@ -6,8 +6,8 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css">
 
-- 👨‍💻 Estudante do 5º semestre de Análise e Desenvolvimento de Sistemas @[Fatec](https://www.fateccarapicuiba.edu.br/)
-- 💼 Estagiário em Desevolvimento de Sistemas @[Revizia](https://revizia.com.br/)
+- 👨‍💻 Estudante do 6º semestre de Análise e Desenvolvimento de Sistemas @[Fatec](https://www.fateccarapicuiba.edu.br/)
+- 💼 Desenvolvedor Java Junior @[Revizia](https://revizia.com.br/)
 - 📚 Sempre indo atrás de aprender algo novo
 
 <div>  
