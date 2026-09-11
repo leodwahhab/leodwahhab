@@ -1,14 +1,17 @@
-<h1>Olá, mundo! 👋</h1>
+<h1>Hello world! 👋</h1>
 <a href="https://www.linkedin.com/in/leonardo-wahhab"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:leonardo.wahhab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h2>Meu nome é Leonardo Wahhab</h2>
+<h2>My name is Leonardo Wahhab</h2>
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css">
 
-- 👨‍💻 Estudante do 6º semestre de Análise e Desenvolvimento de Sistemas @[Fatec](https://www.fateccarapicuiba.edu.br/)
-- 💼 Desenvolvedor Java Junior @[Revizia](https://revizia.com.br/)
-- 📚 Sempre indo atrás de aprender algo novo
+- 👨‍💻 Degree in System Analysis and Development @[Fatec](https://www.fateccarapicuiba.edu.br/)
+- 💼 Web developer @[Revizia](https://revizia.com.br/)
+- ☕ Focused on Java
+- 📚 Always seeking for knowledge
+- 📍 Currently based in Brazil 🇧🇷
+- ⚡ I studied my last semester of college in Argentina 🇦🇷
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=leodwahhab&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt=""> 
