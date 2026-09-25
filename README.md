@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css">
 
 - 👨‍💻 Degree in System Analysis and Development @[Fatec](https://www.fateccarapicuiba.edu.br/)
-- 💼 Web developer @[Revizia](https://revizia.com.br/)
+- 💼 Web developer
 - ☕ Focused on Java
 - 📚 Always seeking for knowledge
 - 📍 Currently based in Brazil 🇧🇷
