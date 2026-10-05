@@ -4,8 +4,6 @@
 
 <h2>My name is Leonardo Wahhab</h2>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,git,javascript,html,css">
-
 - 👨‍💻 Degree in System Analysis and Development @[Fatec](https://www.fateccarapicuiba.edu.br/)
 - ☕ Web developer | focused on Java with Spring Boot
 - 💼 Experience with support and development of Antifraud Analysis Systems and Tax Management Systems
@@ -14,6 +12,9 @@
 - 🌎 I speak Portuguese 🇧🇷, English 🇺🇸 and Spanish 🇦🇷
 - ⚡ Fun fact: I studied my last semester of college in Argentina 🇦🇷
 
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,docker,git,javascript,html,css">
+
+<hr>
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=leodwahhab&show_icons=true&count_private=true&hide_border=true&title_color=191970&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt=""> 
